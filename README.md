@@ -70,6 +70,6 @@ The dataset includes transaction details with the following key attributes:
 ## Contact
 For any queries, feel free to reach out!
 
-**Author:** [Your Name]
+**Author:** Nail Saidazim
 **Email:** saydazimnailgmail.com
 
